@@ -167,7 +167,7 @@ Publish the website in the given URL.
     </div>
     </body>
     </HTML>
-    ```
+ ```
  
 ## OUTPUT:
 ![Screenshot from 2023-01-29 11-12-34](https://user-images.githubusercontent.com/118344695/215307675-46289f19-bcda-46d2-a2ca-b44ba9015c1c.png)
